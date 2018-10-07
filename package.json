@@ -1,47 +1,37 @@
-﻿{
-
-  "name": "moth-app",
-
-  "version": "1.0.0",
-
-  "description": "Aplicación generada por y para las actividades y necesidades de MOTH GAMING. Licencia pendiente de patentar. Prohibida su distribución e ingeniería inversa, Así com su distribución comercial.",
-
-  "main": "main.js",
-
-  "scripts": {
-
-    "start": "electron ."
-  },
-  "repository": {
-
-    "type": "git",
-
-    "url": "git+https://github.com/mothgaming/mothgaming.git"
-
-  },
-
-  "keywords": [
-
-    "Electron",
-    "Demo",
-    "Moth",
-    "Gaming"
-  ],
-
-  "author": "Ivan Irribarria Sanchez",
-
-  "bugs": {
-
-    "url": "https://github.com/mothgaming/mothgaming/issues"
-
-  },
-
-  "homepage": "https://github.com/mothgaming/mothgaming#readme",
-
-  "devDependencies": {
-
-    "electron": "^3.0.2"
-
-  }
-
+{
+    "title": "Modern Business",
+    "name": "startbootstrap-modern-business",
+    "version": "4.1.1",
+    "description": "A multipurpose HTML website template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/modern-business",
+    "bugs": {
+        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business/issues",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "font-awesome": "^4.7.0",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1"
+    }
 }
